@@ -1,0 +1,16 @@
+﻿Group hierarchy,Region,Description,Service,Upfront,Monthly,First 12 months total,Currency,Configuration summary
+My Estimate,US East (N. Virginia),,Application Load Balancer,0,7024.43,84293.16,USD,Number of Application Load Balancers (1)
+My Estimate,US East (N. Virginia),,Amazon EC2,0,258.15999999999997,3097.92,USD,"Operating system (Linux), Quantity (4), Pricing strategy (Standard Reserved Instances 1 Year No Upfront), Storage amount (30 GB), Instance type (t4g.xlarge)"
+My Estimate,US East (N. Virginia),,Network Load Balancer,0,5272.43,63269.16,USD,"Number of Network Load Balancers (1), Average number of new TLS connections (10000 per second), Average TLS connection duration (360 seconds)"
+My Estimate,US East (N. Virginia),,Amazon RDS for MySQL,0,1934.1000000000001,23209.20,USD,"Storage for each RDS instance (General Purpose SSD (gp2)), Storage amount (30 GB), Quantity (1), Instance type (db.m2.4xlarge), Deployment option (Multi-AZ), Pricing strategy (OnDemand)"
+My Estimate,US East (N. Virginia),,Amazon Virtual Private Cloud (VPC),0,77.85,934.20,USD,Number of NAT Gateways (1)
+My Estimate,US East (N. Virginia),,S3 Standard,0,2252.48,27029.76,USD,S3 Standard storage (100000 GB per month)
+My Estimate,US East (N. Virginia),,Data Transfer,0,0,0.00,USD,"DT Inbound: Internet (10 TB per month), DT Outbound: Amazon CloudFront (5 TB per month)"
+My Estimate,US East (N. Virginia),,Amazon RDS for MySQL,0,1934.1000000000001,23209.20,USD,"Storage for each RDS instance (General Purpose SSD (gp2)), Storage amount (30 GB), Quantity (1), Instance type (db.m2.4xlarge), Deployment option (Multi-AZ), Pricing strategy (OnDemand)"
+My Estimate,US East (Ohio),,Amazon Virtual Private Cloud (VPC),0,77.85,934.20,USD,Number of NAT Gateways (1)
+My Estimate,US East (Ohio),,Amazon EC2,0,258.15999999999997,3097.92,USD,"Operating system (Linux), Quantity (4), Pricing strategy (Standard Reserved Instances 1 Year No Upfront), Storage amount (30 GB), Instance type (t4g.xlarge)"
+
+
+
+Acknowledgement
+"* AWS Pricing Calculator provides only an estimate of your AWS fees and doesn't include any taxes that might apply. Your actual fees depend on a variety of factors, including your actual usage of AWS services."
